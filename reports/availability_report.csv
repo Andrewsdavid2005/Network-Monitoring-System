@@ -1,0 +1,4 @@
+Generated At,Device,Successful Checks,Failed Checks,Total Checks,Availability (%)
+2026-10-13 08:33:47,Internet DNS,17,1,18,94.44
+2026-10-13 08:33:47,Network Gateway,18,0,18,100.00
+2026-10-13 08:33:47,Ubuntu,18,0,18,100.00

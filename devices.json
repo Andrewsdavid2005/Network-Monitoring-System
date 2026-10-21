@@ -1,0 +1,7 @@
+{
+  "devices": [
+    {"name": "Ubuntu", "ip": "127.0.0.1"},
+    {"name": "Network Gateway", "ip": "10.0.3.2"},
+    {"name": "Internet DNS", "ip": "1.1.1.1"}
+  ]
+}

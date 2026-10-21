@@ -73,5 +73,3 @@ Schedule monitor.py using Linux cron to run every minute.
 - Latency monitoring
 - SNMP device monitoring
 # Network-Monitoring-System
-# Network-Monitoring-System
-# Network-Monitoring-System
